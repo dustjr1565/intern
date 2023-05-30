@@ -21,7 +21,7 @@
   
   1. upstream remote 추가
     
-    * git remote add upstream https://github.com/dustjr1565/intern
+    * git remote add upstream https://github.com/dustjr1565/intern.git
       
   2. pre-commit setting
     
