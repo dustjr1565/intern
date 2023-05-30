@@ -19,15 +19,15 @@
     
 3. 환경 세팅Visual Studio Code에서 깃헙계정 로그인 후 터미널에 아래와 같이 명령어 입력 (최초 1회만 수행)
   
-    1. upstream remote 추가
-
-        * git remote add upstream https://github.com/dustjr1565/intern.git
-
-    2. pre-commit setting
-
-        * pip install pre-commit
-
-        * pre-commit install
+  1. upstream remote 추가
+    
+    * git remote add upstream https://github.com/dustjr1565/intern.git
+      
+  2. pre-commit setting
+    
+    * pip install pre-commit
+      
+    * pre-commit install
       
   
 
